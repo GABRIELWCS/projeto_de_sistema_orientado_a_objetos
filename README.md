@@ -29,23 +29,9 @@ Projeto PIM - 1° semestre de 2025
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 |__Gabriel Souza__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/GABRIELWCS)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/gabriel-souza-553224247/) |
 
-
-## 👨‍🏫 Disciplinas Integradas:
-- Análise de sistemas orientada a objetos
-- Banco de dados
-- Economia e mercado
-- Engenharia de software 2
-- Gestão estrátegica de RH
-- Lingua brasileira de sinais
-- Programação orientada a objetos
-- Projeto de interface com o usuário
-
-
-
 ## 🎯 Objetivo
 
 Realizar o levantamento e análise de requisitos para a criação de um sistema de suporte técnico inteligente, que utilize Inteligência Artificial para triagem inicial, categorização automática de chamados e sugestão de soluções, visando otimizar o tempo de resposta e reduzir a sobrecarga da equipe de TI. A LGPD deve ser aplicada a todos os dados pessoais tratados no sistema.
-
 
 
 ## 💬 Descritivo do Projeto - Requisitos do Sistema
@@ -141,4 +127,4 @@ Treinamento e Capacitação
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📝 Manual do Sistema
-[📄 Confira a documentação completa aqui](PRODUCT_BACKLOG_versão_1.0.pdf)
+[📄 Confira a documentação completa aqui](https://github.com/GABRIELWCS/projeto_de_sistema_orientado_a_objetos/blob/main/Manual_MVP_Desk_Atualizado.pdf)
