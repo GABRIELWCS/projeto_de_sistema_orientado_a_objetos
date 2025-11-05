@@ -15,7 +15,7 @@ Projeto PIM - 1° semestre de 2025
 # 🎓 Aprendizado por Projeto Integrador
 * UNIP
 
-* 2º / 3º Período - Analise e Desenvolvimento de Sistemas
+* 4º Período - Analise e Desenvolvimento de Sistemas
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Projeto PIM - 1° semestre de 2025
 
 ## 🎯 Objetivo
 
-Realizar o levantamento e análise de requisitos para a criação de um sistema de suporte técnico inteligente, que utilize Inteligência Artificial para triagem inicial, categorização automática de chamados e sugestão de soluções, visando otimizar o tempo de resposta e reduzir a sobrecarga da equipe de TI. A LGPD deve ser aplicada a todos os dados pessoais tratados no sistema. O desenvolvimento ocorrerá no próximo semestre (PIM IV).
+Realizar o levantamento e análise de requisitos para a criação de um sistema de suporte técnico inteligente, que utilize Inteligência Artificial para triagem inicial, categorização automática de chamados e sugestão de soluções, visando otimizar o tempo de resposta e reduzir a sobrecarga da equipe de TI. A LGPD deve ser aplicada a todos os dados pessoais tratados no sistema.
 
 
 
@@ -134,4 +134,11 @@ Treinamento e Capacitação
 # 📝 Sprint Backlog
 [📄 Confira a documentação completa aqui](SprintBacklog_versão1.1.pdf)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 📝Diagramas
+[📄 Confira a documentação completa aqui]
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📝 Manual do Sistema
+[📄 Confira a documentação completa aqui](PRODUCT_BACKLOG_versão_1.0.pdf)
